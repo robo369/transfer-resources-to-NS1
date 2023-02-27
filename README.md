@@ -1,8 +1,8 @@
 # transfer-resources-to-NS1
 
-1- A general outline of the steps involved in transferring resources to NS1:
+  A general outline of the steps involved in transferring resources to NS1:
  
- Identify the resources you want to transfer to NS1. This may include DNS records, domain names, or other network resources.
+ 1- Identify the resources you want to transfer to NS1. This may include DNS records, domain names, or other network resources.
 
 2- Export the resources from your current provider or management platform in a compatible format. For example, you may need to export DNS records as a zone file.
 
